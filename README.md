@@ -17,4 +17,4 @@ After the evaluation,Random Forest Model is consistent with 99% either with actu
 We can see Logistic regression is also consistent with 99% with scaled data or test data. My prediction in the begining was wrong.
 A forest is less interpretable than a single decision tree. Single trees may be visualized as a sequence of decisions. 
 A trained forest may require significant memory for storage, due to the need for retaining the information from several hundred individual trees. So I conclude both Random Forest Model and Logistic Regression model suits for this data.
-But I prefer Logistic Regresssion than RandomForest model.
+But I prefer Logistic Regresssion than RandomForest model,because the time taking to process Random Forest model is more than logistic Regression.
